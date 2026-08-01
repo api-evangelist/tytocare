@@ -1,0 +1,24 @@
+# TytoCare
+
+> TytoCare is an AI-powered remote physical examination and virtual care company. Its FDA-cleared handheld examination device and Home Smart Clinic / Pro Smart Clinic platforms let clinicians examine heart, lungs, ears, throat, skin, and temperature remotely, serving 240+ healthcare organizations and 1.6M+ patients. TytoCare publishes no public developer portal, API documentation, or client SDKs; its integrations (EHR/telehealth) are delivered through private partner channels.
+
+## Company
+
+- [Website](https://www.tytocare.com/): Company homepage
+- [Home Smart Clinic](https://www.tytocare.com/home-smart-clinic/): Remote exams from home
+- [Pro Smart Clinic](https://www.tytocare.com/pro-smart-clinic/): Clinician-operated remote exams
+- [Tyto Engagement Labs](https://www.tytocare.com/tyto-engagement-labs/): Engagement programs
+- [About](https://www.tytocare.com/about/): Company background
+- [Support](https://support.tytocare.com/): Support center
+- [Resources](https://www.tytocare.com/resources/): Blog, case studies, and resources
+- [Press Releases](https://www.tytocare.com/press-releases/): News and announcements
+
+## Legal
+
+- [Privacy Policy](https://www.tytocare.com/privacy-policy/): HIPAA business-associate practices, GDPR transfers; site displays ISO 27001 and SOC 2 Type 2 badges
+- [Terms & Conditions](https://www.tytocare.com/terms-and-conditions/): Terms of use
+- [Cookie Policy](https://www.tytocare.com/cookie-policy/): Cookie usage
+
+## API Evangelist profile
+
+- [APIs.json](https://raw.githubusercontent.com/api-evangelist/tytocare/refs/heads/main/apis.yml): Machine-readable profile of TytoCare in the API Evangelist network (no public APIs catalogued)

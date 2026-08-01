@@ -1,0 +1,19 @@
+generated: '2026-07-21'
+method: searched
+source: registry searches on npm, PyPI, Maven Central, NuGet, RubyGems, crates.io, Packagist, pkg.go.dev
+notes: >-
+  TytoCare publishes no public client SDKs. The company holds the @tytocare npm
+  scope, but the only package in it is a placeholder ("tyto-test-package" 1.0.0,
+  published 2026-03-25, no description) — not a client library. The TytoCare
+  GitHub org (github.com/TytoCare) exists but has zero public repositories.
+  No matches on PyPI, Maven Central, NuGet, RubyGems, crates.io, Packagist,
+  or pkg.go.dev.
+packages:
+- language: javascript
+  registry: npm
+  name: "@tytocare/tyto-test-package"
+  url: https://www.npmjs.com/package/@tytocare/tyto-test-package
+  install: npm install @tytocare/tyto-test-package
+  official: true
+  sdk: false
+  note: Placeholder test package under the first-party @tytocare scope; not a usable client SDK.

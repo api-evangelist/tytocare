@@ -1,0 +1,34 @@
+generated: '2026-07-21'
+method: searched
+source: https://www.tytocare.com/privacy-policy/
+notes: >-
+  TytoCare publishes no public API, so no API-level standards (OAuth2, OIDC,
+  FHIR, RFC 9457, pagination, idempotency) could be assessed. The claims below
+  are organization-level compliance statements published on tytocare.com
+  (privacy policy text and site-footer certification badges, observed
+  2026-07-21).
+standards:
+- id: hipaa
+  conforms: true
+  evidence: >-
+    Privacy policy states privacy practices comply with Business Associate
+    obligations under HIPAA (dedicated HIPAA section, revised 2025-09-15).
+- id: gdpr
+  conforms: true
+  evidence: >-
+    Privacy policy addresses GDPR data transfers and EU Commission adequacy
+    determinations.
+- id: iso-27001
+  conforms: true
+  evidence: ISO 27001 certification badge displayed in tytocare.com site footer.
+- id: soc2-type2
+  conforms: true
+  evidence: SOC 2 Type 2 badge displayed in tytocare.com site footer.
+- id: oauth2
+  conforms: null
+  evidence: No public API surface to assess.
+- id: fhir
+  conforms: null
+  evidence: >-
+    EHR integrations are delivered through private partner channels; no public
+    FHIR conformance statement found.
