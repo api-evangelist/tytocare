@@ -9,6 +9,17 @@ description: >-
   documentation, or client SDKs — EHR and telehealth integrations are
   delivered through private partner channels. An Insight Partners portfolio
   company in the API Evangelist network.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
